@@ -1,0 +1,16 @@
+FIl/AppTest.class
+FIl/Items/PotionVieTest.class
+FIl/Items/PotionForceTest.class
+FIl/Items/BanditManchotTest.class
+FIl/Actions/UseActionTest.class
+FIl/Items/ItemTest.class
+FIl/Room/RoomTest.class
+FIl/Items/PotionOrTest.class
+FIl/AdventureGame/AdventureGameTest.class
+FIl/GameCharacter/GameCharacterTest.class
+FIl/Actions/AttackActionTest.class
+FIl/GameCharacter/PlayerTest.class
+FIl/Actions/ActionTest.class
+FIl/GameCharacter/MonstreTest.class
+FIl/Room/ExitTest.class
+FIl/Actions/MoveActionTest.class

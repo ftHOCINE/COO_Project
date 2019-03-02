@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="false" dependencies="false" nesting-relationships="false" router="FAN">  
+  <class id="1" language="java" name="fil.coo.Resource.Basket" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Resource/Basket.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="135" x="1418" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="fil.coo.Action.Scheduler" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Action/Scheduler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="221" width="158" x="1061" y="308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="fil.coo.Action.ForeseableAction" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Action/ForeseableAction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="185" width="161" x="860" y="308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="fil.coo.Action.ResourceAction" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Action/ResourceAction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="294" x="1259" y="308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="fil.coo.Action.Swimmer" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Action/Swimmer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="257" width="267" x="867" y="758"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="fil.coo.Action.SequentielScheduler" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Action/SequentielScheduler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="154" x="867" y="569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="fil.coo.ResourcePool.EmptyListException" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/ResourcePool/EmptyListException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="158" x="234" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="fil.coo.Action.FreeResourceAction" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Action/FreeResourceAction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="348" x="1255" y="569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="fil.coo.Action.ActionFinishedException" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Action/ActionFinishedException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="181" x="432" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="fil.coo.Action.Action" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Action/Action.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="185" width="141" x="1237" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="11" language="java" name="fil.coo.Action.ActionState" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Action/ActionState.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="165" x="653" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="12" language="java" name="fil.coo.ResourcePool.NotFoundException" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/ResourcePool/NotFoundException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="158" x="858" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="fil.coo.Action.TakeResourceAction" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Action/TakeResourceAction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="349" x="1643" y="569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="fil.coo.ResourcePool.MockResourcePool" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/ResourcePool/MockResourcePool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="151" x="1768" y="308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="15" language="java" name="fil.coo.Resource.Resource" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Resource/Resource.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="77" width="135" x="1593" y="308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="16" language="java" name="fil.coo.Resource.Mock" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Resource/Mock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="135" x="1593" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="fil.coo.ResourceUser.ResourceUser" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/ResourceUser/ResourceUser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="141" x="1056" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="fil.coo.Action.FairScheduler" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Action/FairScheduler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="154" x="1061" y="569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="fil.coo.ResourcePool.BasketPool" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/ResourcePool/BasketPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="158" x="1959" y="308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="fil.coo.ResourcePool.CubiclePool" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/ResourcePool/CubiclePool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="160" x="2157" y="308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="fil.coo.ResourcePool.ResourcePool" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/ResourcePool/ResourcePool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="239" width="166" x="1959" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="fil.coo.Resource.Cubicle" project="COO-projet" 
+    file="/COO-projet/src/main/java/fil/coo/Resource/Cubicle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="135" x="1768" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <realization id="27">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="30">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="34">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <realization id="36">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
